@@ -1,0 +1,2 @@
+﻿  牛客网练习题.cpp
+D:\Program Files\github code\learn\vs2019 code\20220529\20220529\牛客网练习题.cpp(15): error C4700: 使用了未初始化的局部变量“sum”

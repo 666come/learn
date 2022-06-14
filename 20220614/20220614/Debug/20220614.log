@@ -1,0 +1,3 @@
+﻿  牛客网练习题.cpp
+D:\Program Files\github code\learn\vs2019 code\20220614\20220614\牛客网练习题.cpp(27,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+  20220614.vcxproj -> D:\Program Files\github code\learn\vs2019 code\20220614\Debug\20220614.exe
